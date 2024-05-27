@@ -45,10 +45,10 @@ header > p {
 section {
     padding-top: 10vh;
     padding-bottom: 10vh; 
-    padding-left: 30px;
+    padding-left: 20px;
     line-height: 2em;
     font-family: var(--fonte3);
-    font-size: 5vh;
+    font-size: 4vh;
 }
 section.normal {
     background-color: white;
@@ -69,7 +69,7 @@ section.imagem > p {
     
 }
 section#img1 {
-    background-image: url(../estudo/Projeto-Cordel/imagens/background001.jpg);
+    background-image: url(../Projeto-Cordel/imagens/background001.jpg);
     background-position: right center;
 }
 section#img2{
