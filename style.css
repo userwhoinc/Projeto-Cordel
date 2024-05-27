@@ -69,11 +69,11 @@ section.imagem > p {
     
 }
 section#img1 {
-    background-image: url(../Projeto-Cordel/imagens/background001.jpg);
+    background-image: url(../estudo/Projeto-Cordel/imagens/background001.jpg);
     background-position: right center;
 }
 section#img2{
-    background-image: url(../Projeto-Cordel/imagens/background002.jpg);  
+    background-image: url(../estudo/Projeto-Cordel/imagens/background002.jpg);  
 }
 section > p {
     padding-bottom: 1em;
